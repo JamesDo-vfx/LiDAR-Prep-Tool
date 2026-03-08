@@ -1,7 +1,6 @@
 
 # 🛸 JamesDo's Scan Aligner — LiDAR Prep Tool
-**Author:** JamesDo | **Field:** VFX & Matchmove | 🌷✨
-
+**Author:** JamesDo | **Field:** VFX & Matchmove | 
 ---
 
 *Simple and intuitive interface to help you process batch scan files quickly.*
@@ -31,8 +30,7 @@
 1. Download the addon `.zip` file from the [Releases](https://github.com/) section.
 2. Open Blender, go to **Edit > Preferences > Add-ons**.
 3. Click **Install...** and select the downloaded `.zip` file.
-4. Check the box for **JamesDo's Scan Aligner** to activate it. 🌷✨
-
+4. Check the box for **JamesDo's Scan Aligner** to activate it. 
 ---
 
 ## 🕹️ Usage Workflow
@@ -51,8 +49,7 @@ To ensure Matchmove software interprets the space correctly, you need to clean t
 1. Identify a matching feature on both scans.
 2. **Set Origin to Cursor** at that point for the source object.
 3. Place the **3D Cursor** on the same corresponding point of the target object.
-4. Use **Selection to Cursor** to snap them together perfectly. ✨
-
+4. Use **Selection to Cursor** to snap them together perfectly. 
 ### Step 3: Export Aligned Model
 
 1. Check the **Scale 100 (For MatchMove Software)** box if you are heading into 3DEqualizer or PFTrack.
