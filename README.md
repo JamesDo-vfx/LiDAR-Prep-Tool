@@ -46,7 +46,7 @@ The tool is designed to be used from top to bottom in 3 easy steps:
 
 To ensure Matchmove software interprets the space correctly, you need to clean the data:
 
-![Workflow Preview](my_awesome_demo.mp4)
+!(my_awesome_demo.mp4)
 
 1. Identify a matching feature on both scans.
 2. **Set Origin to Cursor** at that point for the source object.
