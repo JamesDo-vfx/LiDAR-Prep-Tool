@@ -47,7 +47,9 @@ The tool is designed to be used from top to bottom in 3 easy steps:
 To ensure Matchmove software interprets the space correctly, you need to clean the data:
 
 <p align="center">
-  <img src="my_awesome_demo.mp4" alt="Addon Demo" width="600">
+  <video src="my_awesome_demo.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 1. Identify a matching feature on both scans.
