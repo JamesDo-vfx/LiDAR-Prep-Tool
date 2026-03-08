@@ -46,6 +46,10 @@ The tool is designed to be used from top to bottom in 3 easy steps:
 
 To ensure Matchmove software interprets the space correctly, you need to clean the data:
 
+<p align="center">
+  <img src="my_awesome_demo.mp4" alt="Addon Demo" width="600">
+</p>
+
 1. Identify a matching feature on both scans.
 2. **Set Origin to Cursor** at that point for the source object.
 3. Place the **3D Cursor** on the same corresponding point of the target object.
