@@ -47,8 +47,7 @@ The tool is designed to be used from top to bottom in 3 easy steps:
 To ensure Matchmove software interprets the space correctly, you need to clean the data:
 
 <p align="center">
-  <video src="my_awesome_demo.mp4" width="100%" controls>
-    Your browser does not support the video tag.
+  <video src="my_awesome_demo.mp4" width="100%" autoplay loop muted playsinline>
   </video>
 </p>
 
